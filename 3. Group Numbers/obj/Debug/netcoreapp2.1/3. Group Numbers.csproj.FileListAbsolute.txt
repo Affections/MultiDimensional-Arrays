@@ -1,0 +1,11 @@
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\bin\Debug\netcoreapp2.1\3. Group Numbers.deps.json
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\bin\Debug\netcoreapp2.1\3. Group Numbers.runtimeconfig.json
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\bin\Debug\netcoreapp2.1\3. Group Numbers.runtimeconfig.dev.json
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\bin\Debug\netcoreapp2.1\3. Group Numbers.dll
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\bin\Debug\netcoreapp2.1\3. Group Numbers.pdb
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\obj\Debug\netcoreapp2.1\3. Group Numbers.csprojAssemblyReference.cache
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\obj\Debug\netcoreapp2.1\3. Group Numbers.csproj.CoreCompileInputs.cache
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\obj\Debug\netcoreapp2.1\3. Group Numbers.AssemblyInfoInputs.cache
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\obj\Debug\netcoreapp2.1\3. Group Numbers.AssemblyInfo.cs
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\obj\Debug\netcoreapp2.1\3. Group Numbers.dll
+C:\Users\--------------------\source\repos\ConsoleApp5\3. Group Numbers\obj\Debug\netcoreapp2.1\3. Group Numbers.pdb

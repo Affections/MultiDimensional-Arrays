@@ -1,0 +1,10 @@
+C:\Users\--------------------\source\repos\ConsoleApp5\ConsoleApp1\bin\Debug\netcoreapp2.1\2. Square With Maximum Sum.deps.json
+C:\Users\--------------------\source\repos\ConsoleApp5\ConsoleApp1\bin\Debug\netcoreapp2.1\2. Square With Maximum Sum.runtimeconfig.json
+C:\Users\--------------------\source\repos\ConsoleApp5\ConsoleApp1\bin\Debug\netcoreapp2.1\2. Square With Maximum Sum.runtimeconfig.dev.json
+C:\Users\--------------------\source\repos\ConsoleApp5\ConsoleApp1\bin\Debug\netcoreapp2.1\2. Square With Maximum Sum.dll
+C:\Users\--------------------\source\repos\ConsoleApp5\ConsoleApp1\bin\Debug\netcoreapp2.1\2. Square With Maximum Sum.pdb
+C:\Users\--------------------\source\repos\ConsoleApp5\ConsoleApp1\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\--------------------\source\repos\ConsoleApp5\ConsoleApp1\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\--------------------\source\repos\ConsoleApp5\ConsoleApp1\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.AssemblyInfo.cs
+C:\Users\--------------------\source\repos\ConsoleApp5\ConsoleApp1\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.dll
+C:\Users\--------------------\source\repos\ConsoleApp5\ConsoleApp1\obj\Debug\netcoreapp2.1\2. Square With Maximum Sum.pdb
